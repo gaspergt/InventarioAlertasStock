@@ -25,7 +25,3 @@ Sistema de gestión de inventario desarrollado en **Java** con conexión a **MyS
 - **Colecciones**: `HashMap`, `ConcurrentHashMap`, `ArrayList`.
 
 ---
-
-## Estructura del Proyecto
-
-
